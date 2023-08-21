@@ -1,2 +1,5 @@
-{"Version": "1.2","ReleaseNotes": "Kudo Shinichi","Servers": [{"url":"vmess://eyJhZGQiOiJBTlRJRERPUzY2LjVHVE9DRE9DQU8uQ09NIiwiYWlkIjoiMCIsImhvc3QiOiJkbC5rZ3ZuLmdhcmVuYW5vdy5jb20iLCJpZCI6ImNiYmQ2YWUwLWE1NDMtNDBjOC04NmE1LTc0MzI3MWMzODVjNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9hbnRpOS41Z3RvY2RvY2FvLmNvbSIsInBvcnQiOiI4MCIsInBzIjoi8J+TtlZp4buHdCBOYW0gMSAtIExRICg4MCnwn4e78J+HsyIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="},{"url":"trojan://cbbd6ae0-a543-40c8-86a5-743271c385c7@ANTIDDOS66.5GTOCDOCAO.COM:443?security=tls&headerType=none&type=tcp&sni=dl.ops.kgvn.garenanow.com#%F0%9F%93%B6Vi%E1%BB%87t+Nam+1+-+LQ+%28443%29%F0%9F%87%BB%F0%9F%87%B3"}
+{"Version": "1.2","ReleaseNotes": "Kudo Shinichi","Servers": 
+[{"url":
+"vmess://eyJhZGQiOiJBTlRJRERPUzY2LjVHVE9DRE9DQU8uQ09NIiwiYWlkIjoiMCIsImhvc3QiOiJkbC5rZ3ZuLmdhcmVuYW5vdy5jb20iLCJpZCI6ImNiYmQ2YWUwLWE1NDMtNDBjOC04NmE1LTc0MzI3MWMzODVjNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9hbnRpOS41Z3RvY2RvY2FvLmNvbSIsInBvcnQiOiI4MCIsInBzIjoi8J+TtlZp4buHdCBOYW0gMSAtIExRICg4MCnwn4e78J+HsyIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="},
+{"url":"trojan://cbbd6ae0-a543-40c8-86a5-743271c385c7@ANTIDDOS66.5GTOCDOCAO.COM:443?security=tls&headerType=none&type=tcp&sni=dl.ops.kgvn.garenanow.com#%F0%9F%93%B6Vi%E1%BB%87t+Nam+1+-+LQ+%28443%29%F0%9F%87%BB%F0%9F%87%B3"}
 ]}
